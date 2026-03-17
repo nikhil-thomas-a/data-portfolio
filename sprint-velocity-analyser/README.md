@@ -27,14 +27,23 @@ Built as a practical tool for Delivery PMs and engineering managers who want to 
 
 ## Charts
 
-| # | Chart | What it answers |
-|---|-------|----------------|
-| 01 | Velocity trends | Is each team getting faster, slower, or staying flat? |
-| 02 | Team comparison | How do teams differ in velocity, predictability, and carryover? |
-| 03 | Blocker impact | Which blocker types cost the most story points? |
-| 04 | Team size vs velocity | Does adding people actually increase output? |
-| 05 | Carryover & scope creep | When do teams overcommit? Which teams carry the most work forward? |
-| 06 | Predictability heatmap | How consistent is each team quarter by quarter? |
+### 1. Velocity trends — is each team getting faster, slower, or staying flat?
+![Velocity Trends](outputs/charts/01_velocity_trends.png)
+
+### 2. Team comparison — velocity, predictability, and carryover distributions
+![Team Comparison](outputs/charts/02_team_comparison.png)
+
+### 3. Blocker impact — which blocker types cost the most story points?
+![Blocker Impact](outputs/charts/03_blocker_impact.png)
+
+### 4. Team size vs velocity — does adding people actually increase output?
+![Team Size vs Velocity](outputs/charts/04_teamsize_vs_velocity.png)
+
+### 5. Carryover & scope creep — when do teams overcommit?
+![Carryover and Scope Creep](outputs/charts/05_carryover_scope.png)
+
+### 6. Predictability heatmap — consistency by team, quarter by quarter
+![Predictability Heatmap](outputs/charts/06_predictability_heatmap.png)
 
 ---
 
