@@ -24,3 +24,4 @@ Each project is self-contained — generate the data, run the analysis, all outp
 
 `Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scipy` · `scikit-learn` · `EDA` · `data visualisation` · `classification` · `feature importance` · `SaaS metrics` · `synthetic data generation`
 
+
