@@ -23,6 +23,8 @@ Built as a practical tool for Delivery PMs and engineering managers who want to 
 - Team size alone is a weak predictor of velocity — maturity and consistency matter more
 - Tech debt is the most frequent recurring blocker across all three teams
 
+→ Full written interpretation of every chart: [findings.md](./findings.md)
+
 ---
 
 ## Charts

@@ -13,11 +13,13 @@ Built by **Nikhil Thomas A** — Delivery PM & Fractional Head of Data.
 | Project | Tools | Status |
 |---------|-------|--------|
 | [Sprint Velocity Analyser](./sprint-velocity-analyser/) | pandas, matplotlib, seaborn, scipy | ✅ Live |
+| [Startup KPI Dashboard](./startup-kpi-dashboard/) | pandas, matplotlib, SaaS metrics | ✅ Live |
+| [Delivery Risk Predictor](./delivery-risk-predictor/) | scikit-learn, random forest, logistic regression | ✅ Live |
 
-More coming — one project at a time, built to answer real PM and ops questions with data.
+Each project is self-contained — generate the data, run the analysis, all outputs saved locally.
 
 ---
 
 ## Skills
 
-`Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scipy` · `EDA` · `data visualisation` · `synthetic data generation` · `regression analysis`
+`Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scipy` · `scikit-learn` · `EDA` · `data visualisation` · `classification` · `feature importance` · `SaaS metrics` · `synthetic data generation`
